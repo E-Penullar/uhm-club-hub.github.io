@@ -8,6 +8,7 @@ title: Final Project - Club Hub
 * [Project Links](#project-links)
 * [Deployment](#deployment)
 * [Project Management](#project-management)
+* [Developer Guide](#developer-guide)
 * [The Problem](#the-problem)
 * [The Solution](#the-solution)
 * [User Guide](#user-guide)
@@ -17,6 +18,8 @@ title: Final Project - Club Hub
 
 ## Overview
 Club Hub is a centralized directory application designed to connect students at the University of Hawaiʻi at Mānoa with campus organizations, clubs, and extracurricular activities.
+
+Users can either view the current catalog of UH Manoa campus clubs, or login to view or edit their personally curated roster of clubs.
 
 ## Project Links
 * **[GitHub Organization & Repositories](https://github.com/uhm-club-hub)** 
@@ -47,9 +50,10 @@ Club Hub solves this by providing a unified, interactive directory tailored spec
 ---
 
 ## User Guide
+<!--- Requires Updated Images of Current deployment for Following Pages: Landing, Error(?) --->
 
 ## Current State & Screenshots
-*(Note: As part of Milestone 1, the following screenshots reflect the current state of our deployed application.)*
+*(Note: As part of Milestone 2, the following screenshots reflect the current state of our deployed application.)*
 
 ### Landing Page
 A clean, welcoming entry point explaining the purpose of Club Hub with a prompt to log in via a UHM account. 
